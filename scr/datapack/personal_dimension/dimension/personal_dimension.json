@@ -1,0 +1,13 @@
+{
+  "type": "personal_dimension:personal_dimension",
+"generator": "minecraft:flat",
+"settings": {
+"biome": "minecraft:the_void",
+  "layers": [
+    {
+      "block": "minecraft:air",
+      "height": 1
+    }
+  ]
+}
+}
